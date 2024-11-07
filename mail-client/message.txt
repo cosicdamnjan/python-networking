@@ -1,0 +1,7 @@
+Hello World!
+
+This is a main sent with Python!
+
+Best regards,
+
+Damnjan
